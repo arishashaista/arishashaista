@@ -27,14 +27,3 @@ Hello! I'm Shasha — a Computer Science undergraduate at Universitas Indonesia 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,django,spring,nextjs" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arishashaista&show_icons=true&theme=rose_pine&hide_border=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arishashaista&layout=compact&theme=rose_pine&hide_border=true" height="160">
-</p>
-
----
