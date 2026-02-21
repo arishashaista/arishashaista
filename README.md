@@ -4,22 +4,21 @@
 </h1>
 
 <h3 align="center">
-  Undergraduate Computer Science Student @ Universitas Indonesia
+    Computer Science Student @ Universitas Indonesia
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&duration=3000&color=F78DA7&center=true&vCenter=true&width=600&lines=Building+impactful+digital+solutions+🌷;AI+Enthusiast+%7C+Backend+Engineer+%7C+System+Design+Lover;Cute+but+dangerous+with+code+💻✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&duration=3000&color=F78DA7&center=true&vCenter=true&width=600&lines=Always+learning,+Always+growing,+Always+building;Software+Engineer+%7C+Product+Manager+%7C+UI/UX+Design" />
 </p>
 
 ---
 
-## 💖 About Me
+## About Me
 
-Hello! I'm Arisha — a Computer Science undergraduate at Universitas Indonesia who loves transforming ideas into elegant digital solutions.
+Hello! I'm Shasha — a Computer Science undergraduate at Universitas Indonesia who loves transforming ideas into elegant digital solutions.
 
-🌷 Passionate about backend engineering & AI  
-💡 Interested in scalable systems and clean architecture  
-✨ Believer that great tech should feel intentional and beautiful  
+- Passionate about Software Engineering, Product Management, and UI/UX Design  
+- Believer that great tech should feel intentional and beautiful  
 
 ---
 
@@ -31,14 +30,6 @@ Hello! I'm Arisha — a Computer Science undergraduate at Universitas Indonesia 
 
 ---
 
-## 🌸 Currently Exploring
-
-- AI Agents & Intelligent Systems  
-- Clean Architecture & Domain-Driven Design  
-- Scalable Backend Development  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -47,7 +38,3 @@ Hello! I'm Arisha — a Computer Science undergraduate at Universitas Indonesia 
 </p>
 
 ---
-
-<p align="center">
-  ✨ Always learning. Always growing. Always building. ✨
-</p>
