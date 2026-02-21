@@ -33,8 +33,8 @@ Hello! I'm Shasha — a Computer Science undergraduate at Universitas Indonesia 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=arishashaista&show_icons=true&theme=rose_pine&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arishashaista&layout=compact&theme=rose_pine&hide_border=true" height="160">
 </p>
 
 ---
